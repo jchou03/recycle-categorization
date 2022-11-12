@@ -1,0 +1,17 @@
+body{
+    background-color: teal;
+    text-align: center;
+}
+
+#questions button {
+    display: inline-block;
+    padding: 1%;
+    
+}
+
+#questions{
+    margin:auto;
+    width:50%;
+    padding:10px;
+    width:50%
+}
