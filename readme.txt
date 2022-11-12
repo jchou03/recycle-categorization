@@ -1,0 +1,1 @@
+Image Classification project to help you determine what kind of recyclable waste is, and which bin it should go in
