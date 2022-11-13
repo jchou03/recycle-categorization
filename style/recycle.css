@@ -4,7 +4,7 @@ html{
     height:100%;
 }
 body{
-    font-size: 50px;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -18,7 +18,7 @@ body{
     width: 50%;
     background: #FFFFFF;
     border-radius: 50px;
-    font-size: 130%;
+    font-size: 100%;
 }
 
 #questions{

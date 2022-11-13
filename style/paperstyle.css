@@ -18,6 +18,7 @@ body{
     background: #FFFFFF;
     border: 4px solid #FABB31;
     border-radius: 50px;
+    text-decoration:none;
 }
 
 #pizza_box{
@@ -28,7 +29,7 @@ body{
     width:25%;
 }
 
-#questions{
+#questions{                                                                                                                                                                                                                                                                                              
     margin:auto;
     width:50%;
     padding:10px;
