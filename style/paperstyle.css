@@ -1,0 +1,51 @@
+html{
+    background: linear-gradient(0deg, #c3a7f3 54.48%, #c8eefe 100%);
+    background-attachment: fixed;
+    height:100%;
+}
+body{
+    text-align: center;
+}
+
+#questions button {
+    /* display: inline-block; */
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 3%;
+    width: 50%;
+    background: #FFFFFF;
+    border: 4px solid #FABB31;
+    border-radius: 50px;
+}
+
+#questions{
+    margin:auto;
+    width:50%;
+    padding:10px;
+    width:50%;
+}
+
+#buttons{
+    margin:auto;
+    width:50%;
+    padding:10px;
+    width:50%;
+}
+
+#yes_food{
+    color: #F3B62F;
+}
+
+#yes_drinks{
+    color: #75B6AF
+}
+
+#no{
+    color: #FF79B9
+}
+
+#home{
+    color:#000000
+}
