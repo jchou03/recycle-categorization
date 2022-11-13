@@ -1,0 +1,51 @@
+html{
+    background: linear-gradient(0deg, #F4B322 20%, #FFF4CB 100%);
+    background-attachment: fixed;
+    height:100%;
+}
+body{
+    text-align: center;
+}
+
+#questions button {
+    /* display: inline-block; */
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 3%;
+    width: 50%;
+    background: #FFFFFF;
+    border-radius: 50px;
+}
+
+#questions{
+    margin:auto;
+    width:50%;
+    padding:10px;
+    width:50%;
+}
+
+#container{
+    color: #75B6AF;
+    border: 4px solid #75B6AF;
+    font-size: 18px}
+
+#bottlejar{
+    color: #EB8028;
+    border: 4px solid #EB8028;
+    font-size: 18px}
+
+#plasticbag{
+    color: #6667AB;
+    border: 4px solid #6667AB;
+    font-size: 18px}
+
+#others{
+    color: #FF79B9;
+    border: 4px solid #FF79B9;
+    font-size: 18px}
+
+#Home{
+    color: #000000;
+    font-size: 30px;}

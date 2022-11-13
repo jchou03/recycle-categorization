@@ -1,0 +1,48 @@
+html{
+    background: linear-gradient(0deg, #78C095 10.48%, #E1F9B0 100%);
+    background-attachment: fixed;
+    height:100%;
+}
+body{
+    text-align: center;
+}
+
+#questions button {
+    /* display: inline-block; */
+    margin-left: 2%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 1.5%;
+    width: 50%;
+    background: #FFFFFF;
+    border-radius: 50px;
+    font-size: 130%;
+}
+
+#questions{
+    margin:auto;
+    width:50%;
+    padding:10px;
+    width:50%;
+}
+
+#plastic{
+    color: #F3B62F;
+    border: 4px solid #F3B62F;
+}
+#metal{
+    color: #6667AB;
+    border: 4px solid #6667AB;
+}
+#glass{
+    color: #75B6AF;
+    border: 4px solid #75B6AF;}
+
+#paper{
+    color: #FF79B9;
+    border: 4px solid #FF79B9;}
+
+#food_waste{
+    color: #EB8028;
+    border: 4px solid #EB8028;}
+    
